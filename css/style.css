@@ -1,0 +1,68 @@
+#img_celulares {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: -50px;    
+}
+
+body {
+    padding: 1% 5% 0% 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #FFFBE6;
+}
+
+h1 {
+    color: #323232;
+}
+
+.steve-text img{
+    width: 8%;
+    height: 8%;
+    margin-right: 1%;       
+}
+
+.steve-text {
+    display: flex;
+    flex-direction: row;
+           
+}
+
+.text {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  #04BFBF;
+    text-align: justify;
+}
+
+.text span{
+    color: #323232;
+}
+
+.text2 img {
+    width: 12vh;
+    display: flex;
+    position: absolute;
+    right: 50%;
+    top:53%;
+    opacity: 85%;
+    
+  
+}
+
+.text2 {
+    font-size: 13px;
+    text-align: right;
+    color: #BF1F1F;
+    line-height: 1.5;
+    
+}
+
+.text3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    color: #F2BC1B; 
+    line-height: 1.5;
+}
+
+.text3 span {
+    color:#4E8DA6;
+}
